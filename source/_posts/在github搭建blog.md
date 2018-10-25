@@ -1,5 +1,5 @@
 ---
-title: 在GITHUB搭建BLOG
+title: 在github搭建blog
 date: 2018-10-24 17:52:33
 tags:
 ---
