@@ -1,4 +1,7 @@
-build blog with hexo 
+build blog 
 
 for more information link:
-https://hexo.io/zh-cn/docs/writing
+hexo:
+https://hexo.io/zh-cn/docs/
+next:
+https://github.com/iissnan/hexo-theme-next/blob/master/README.cn.md
